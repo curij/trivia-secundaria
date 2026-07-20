@@ -143,9 +143,9 @@ BANCO_POR_GRADOS = {
             "imagen": None, # Cambia por "imagenes/foto.png" si usas imagen
             "opciones": ["Océano Atlántico", "Océano Índico", "Océano Pacífico", "Océano Ártico"],
             "correcta": " Océano Pacífico "
-        }
+        },
         {
-            "pregunta": "Cómo se les llama a las palabras que se escriben diferente pero tienen el mismo significado, como "feliz" y "contento",
+            "pregunta": "Cómo se les llama a las palabras que se escriben diferente pero tienen el mismo significado, como 'feliz' y contento",
             "imagen": None, # Cambia por "imagenes/foto.png" si usas imagen
             "opciones": ["Sinónimos", "Antónimos", "Antónimos", "Parónimas"],
             "correcta": "Sinónimos "
@@ -169,7 +169,7 @@ BANCO_POR_GRADOS = {
             "correcta": "Don Quijote de la Mancha "
         },
         {
-            "pregunta": "Qué recurso literario consiste en exagerar la realidad para darle más énfasis, como decir "te lo he dicho un millón de veces ",
+            "pregunta": "Qué recurso literario consiste en exagerar la realidad para darle más énfasis, como decir 'te lo he dicho un millón de veces'",
             "imagen": None, # Cambia por "imagenes/foto.png" si usas imagen
             "opciones": ["Metáfora", "Hipérbole", "Personificación", "Símil"],
             "correcta": "Hipérbole "
@@ -414,14 +414,14 @@ BANCO_POR_GRADOS = {
             "pregunta": "Cómo se les llama a los átomos de un mismo elemento químico que tienen el mismo número de protones pero diferente número de neutrones ?",
             "imagen": None,
             "opciones": ["Isótopos", "Isóbaros", "Iones", "Moléculas"],
-            "correcta": "Isótopos"
+            "correcta": "1821"
         },
         {
             "pregunta": "Cuál es el compuesto químico universal, formado por dos átomos de hidrógeno y uno de oxígeno, indispensable para la vida ?",
             "imagen": None,
             "opciones": ["Dióxido de carbono", "Agua", "Metano", "Ácido clorhídrico"],
             "correcta": "Agua"
-        }
+        },
         {
             "pregunta": "Qué biomolécula contiene la información genética hereditaria que determina las características de un ser vivo ?",
             "imagen": None,
@@ -445,7 +445,7 @@ BANCO_POR_GRADOS = {
             "imagen": None,
             "opciones": ["La Segunda Guerra Mundial", "La Guerra Fría", "La Primera Guerra Mundial", "La Guerra de los Cien Años"],
             "correcta": "La Primera Guerra Mundial"
-        }
+        },
         {
             "pregunta": "¿Qué drástico proceso del siglo XIX consistió en la expansión y dominio de las potencias europeas sobre territorios de África y Asia?",
             "imagen": None,
@@ -457,7 +457,7 @@ BANCO_POR_GRADOS = {
             "imagen": None,
             "opciones": ["La Carta Magna", "La Declaración de los Derechos del Hombre y del Ciudadano", "El Tratado de Versalles", "El Código de Hammurabi"],
             "correcta": "La Declaración de los Derechos del Hombre y del Ciudadano"
-        }
+        },
         {
             "pregunta": "¿Qué periodo de tensión política e ideológica dividió al mundo en dos bloques (capitalista y comunista) tras la Segunda Guerra Mundial?",
             "imagen": None,
@@ -469,7 +469,7 @@ BANCO_POR_GRADOS = {
             "imagen": None,
             "opciones": ["México", "Brasil", "Canadá", "Estados Unidos"],
             "correcta": " Estados Unidos"
-        }
+        },
         {
             "pregunta": "Cuál es la capa de gas ozono que protege a la Tierra absorbiendo la mayor parte de la radiación ultravioleta dañina del sol",
             "imagen": None,
@@ -493,7 +493,7 @@ BANCO_POR_GRADOS = {
             "imagen": None,
             "opciones": ["Francia", "Italia", "España", "Grecia"],
             "correcta": "España"
-        }
+        },
         {
             "pregunta": "Qué estrecho canal artificial conecta el océano Atlántico con el océano Pacífico en América Central, facilitando el comercio marítimo mundial",
             "imagen": None,
@@ -511,7 +511,7 @@ BANCO_POR_GRADOS = {
             "imagen": None,
             "opciones": ["Género dramático", "Género lírico", "Género ensayístico", "Género epistolar"],
             "correcta": "Género dramático"
-        }
+        },
         {
             "pregunta": "Cómo se clasifican las palabras que llevan el acento o la mayor fuerza de voz en la penúltima sílaba",
             "imagen": None,
@@ -525,11 +525,11 @@ BANCO_POR_GRADOS = {
             "correcta": "El verbo"
         },
         {
-            "pregunta": "Qué figura retórica consiste en establecer una relación de identidad o sustitución entre dos ideas sin usar nexos como la palabra "como", por ejemplo: "Tus cabellos son de oro",
+            "pregunta": "Qué figura retórica consiste en establecer una relación de identidad o sustitución entre dos ideas sin usar nexos como la palabra 'como', por ejemplo: 'Tus cabellos son de oro'",
             "imagen": None,
             "opciones": ["Símil", "Hipérbole", "Metáfora", "Anáfora"],
             "correcta": "Metáfora"
-        }
+        },
         {
             "pregunta": "En álgebra, ¿cómo se denomina a la expresión matemática que consta de la suma o resta de dos términos o monomios",
             "imagen": None,
@@ -547,7 +547,7 @@ BANCO_POR_GRADOS = {
             "imagen": None,
             "opciones": ["Media aritmética", "Mediana", "Moda", "Rango"],
             "correcta": "Moda"
-        }
+        },
         {
             "pregunta": "Qué tipo de ecuación matemática tiene la forma general \(ax^2 + bx + c = 0\), donde la incógnita está elevada al cuadrado",
             "imagen": None,
@@ -565,25 +565,25 @@ BANCO_POR_GRADOS = {
             "imagen": None,
             "opciones": ["Nicolás Copérnico", "Nicolás Copérnico", "Isaac Newton", "René Descartes"],
             "correcta": "Nicolás Copérnico"
-        }
+        },
         {
-            "pregunta": "Qué país asiático es conocido popularmente en el mundo como "La tierra del sol naciente",
+            "pregunta": "Qué país asiático es conocido popularmente en el mundo como 'La tierra del sol naciente'",
             "imagen": None,
             "opciones": ["China", "Corea del Sur", "Japón", "Tailandia"],
             "correcta": "Japón"
-        }
+        },
         {
-            "pregunta": "Qué célebre pintor neerlandés, exponente del postimpresionismo, es el autor del famoso cuadro "La noche estrellada"",
+            "pregunta": "Qué célebre pintor neerlandés, exponente del postimpresionismo, es el autor del famoso cuadro 'La noche estrellada'",
             "imagen": None,
             "opciones": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", " Salvador Dalí"],
             "correcta": "Vincent van Gogh"
-        }
+        },
         {
             "pregunta": "Qué importante órgano del sistema nervioso central coordina las funciones cognitivas, la memoria y las emociones en el ser humano",
             "imagen": None,
             "opciones": ["La médula espinal", "El cerebelo", " El cerebro", "El bulbo raquídeo"],
             "correcta": "El cerebro"
-        }
+        },
         {
             "pregunta": "En qué año del siglo XX comenzó formalmente la Segunda Guerra Mundial con la invasión a Polonia",
             "imagen": None,
